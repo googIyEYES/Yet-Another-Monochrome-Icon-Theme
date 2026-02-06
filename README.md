@@ -4,6 +4,6 @@ This is a beautiful Icon Theme made by [DIRN](https://store.kde.org/u/dirn) on K
 ## Installation 
 
 ```
-git clone https://www.github.com/googIyEYES/Yet-Another-Monochrome-Icon-Theme.git && cd Yet-Another-Monochrome-Icon-Theme
+git clone https://www.github.com/googIyEYES/YAMIS.git && cd Yet-Another-Monochrome-Icon-Theme
 tar -xzvf monochrome-icon-theme.tar.gz -C "~/.local/share/icons/"
 ```
